@@ -1,1 +1,9 @@
-
+randint
+pygame
+choice
+math
+sin
+cos
+radians
+vec2d
+operator
